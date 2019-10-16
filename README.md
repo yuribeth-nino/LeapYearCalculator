@@ -10,7 +10,7 @@ if the year is divisible by 4, it is a leap year. However, there are a couple mo
 
 ● if it is, then it is only a leap year if it is both divisible by 100 and also evenly divisible by 400
 
-# Technology used
+# Technologies used
 
 Notepad ++
 Processing Library
