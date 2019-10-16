@@ -13,5 +13,4 @@ if the year is divisible by 4, it is a leap year. However, there are a couple mo
 # Technologies used
 
 ● Notepad ++
-● Processing Library
 ● Command Prompt
